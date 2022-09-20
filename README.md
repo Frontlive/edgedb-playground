@@ -1,0 +1,2 @@
+# edgedb-playground
+Edgedb playground
